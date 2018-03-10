@@ -1,0 +1,30 @@
+{
+  "name": "konstruct",
+  "version": "1.0.0",
+  "description": "Official Site for Technical Fest of MAKAUT, WB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstructWBUT/konstructWBUT.github.io.git"
+  },
+  "keywords": [
+    "Konstruct",
+    "Technical",
+    "Tech Fest",
+    "WBUT",
+    "MAKAUT"
+  ],
+  "author": {
+    "name": "Bytes Club",
+    "email": "bytes-club@googlegroups.com",
+    "url": "https://bytesclub.github.io"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/KonstructWBUT/konstructWBUT.github.io/issues"
+  },
+  "homepage": "http://konstruct.wbut.ac.in"
+}
